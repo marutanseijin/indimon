@@ -15,7 +15,7 @@ Rate your fabolite band and post review on.
 
 - Post review (up to 500 charactors)
 
-- Save favorite bands
+- Save and browse favorite bands
   
 - Browse gigs
   
@@ -38,3 +38,30 @@ Rate your fabolite band and post review on.
 #### Livehouse
 
 - Post event information
+
+## note
+
+indimon is under construction.
+I will build the site little by little.
+
+### roadmap
+
+- Build UI [~Sep. 30th]
+
+- Display band information stored on DB [~Dec. 12th]
+
+- Create & Edit band info feature [~Dec. 31st]
+
+- Login feature [~Jan. 15th]
+
+- Rate & Post review feature [~Jan. 31st]
+
+- Favorite bands collection feature [~Feb. 15th]
+  
+- Post gig info feature [~Feb. 28th]
+
+- Reserve ticket feature [~Mar. 15th]
+
+- Browse & Receive ticket reservation requests [~Mar. 30]
+
+Others are pending
